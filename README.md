@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Finding ways to learn more...</p>
+<p align="left">Finding ways to learn more</p>
 
 ###
 
